@@ -1,0 +1,91 @@
+body{
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    font-weight: 500;
+}
+h2{
+    color: tomato;
+    font-size: 40px;
+    font-weight: 700;
+}
+p {
+    color: dimgray;
+}
+.half-width {
+    width: 35%;
+    float: left;
+    padding: 5%;
+    margin: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.background {
+    background-image: url("images/header-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+section {
+    height: 500px;
+    padding-bottom: 250px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.second-background{
+    background-image: url("images/biography-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.full-width img{
+    width: 100%;
+}
+.new-line{
+    text-align: center;
+    padding: 20px;
+}
+.full-width{
+    width: 25%;
+    float: left;
+    padding: 3%;
+    margin: 1%;
+    
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.client {
+    text-align: center;
+}
+.footer-background{
+    background-image: url("images/footer-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.last-add {
+    text-align: center;
+}
+.final-add {
+    text-align: center;
+    padding: 10px 40px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 10px;
+    padding: 30px 10px;
+    background-color: tomato;
+    color: white;
+}
+
+    h6{
+        font-weight: 500;
+    }
