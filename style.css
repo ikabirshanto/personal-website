@@ -86,6 +86,9 @@ section {
     color: white;
 }
 
-    h6{
-        font-weight: 500;
-    }
+h6{
+    font-weight: 500;
+}
+.footer {
+    text-align: center;
+}
